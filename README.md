@@ -4,7 +4,8 @@ The assignment required us to build a website that displayed items, and allowed 
 We recieved 97% for this assignment, and it was chosen by the lecturer and tutors as the best website of the class.
 This was a pair assignment, my partner was a good friend of mine.
 
-video walkthrough of the website here: https://youtu.be/SjCMr_pFwac
+Video walkthrough of the website here: https://youtu.be/SjCMr_pFwac
+Live version of the website exists here: http://hxn.com.au/parkz/
 
 Usage notes:
  - Import the database file 'database.sql' into MySQL on your server.
